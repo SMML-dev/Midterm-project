@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+backend/node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+web-build/
+
+# Environment variables
+.env
+backend/.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+
+# Build files
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
